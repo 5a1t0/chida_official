@@ -217,6 +217,17 @@
     margin-bottom: 0em;
     font-family: "Didact Gothic",sans-serif;
 }
+.music_text_wrapper{
+    padding-top: 20px;
+}
+@media screen and (max-width:480px){
+    .music_icon{
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 
 /* MusicVideo------------------------------------------*/
 .mv_background_img{
