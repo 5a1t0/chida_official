@@ -220,6 +220,14 @@
 .music_text_wrapper{
     padding-top: 20px;
 }
+.m_link{
+    padding-top: 20px;
+    text-align: right;
+}
+.m_link a{
+    font-size: 15px;
+    color: rgb(87, 120, 161);
+}
 @media screen and (max-width:480px){
     .music_icon{
         width: 70%;
@@ -243,15 +251,14 @@
     margin: 20px;
     display: flex;
     justify-content: center;
-
 }
 .contact_icon a{
-    color: #000;
+    color: rgb(103, 103, 103);
     font-size: 25px;
     text-decoration: none;
     padding: 0 10px;
 }
-.contact .contact_icon a :hover{
+.contact_icon a :hover{
     color: rgb(27, 27, 27);
 }
 
