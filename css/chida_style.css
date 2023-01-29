@@ -96,9 +96,9 @@
     border-radius: 20px;
     overflow: hidden;
 }
-.swiper-slide .text{
+.swiper-slide .txt{
     padding: 20px;
-    margin-left: 15px;
+    margin-left: 3px;
 }
 .swiper-slide .txt h2{
     color: #000000;
